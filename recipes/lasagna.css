@@ -8,17 +8,42 @@ body {
     background-color: #D7e3e8;
 }
 
-h1 {
+.recipe-content {
     text-align: center;
     color: #316477;
-    text-transform: capitalize;
 }
 
-p {
-    text-align: center;
+.recipe-content h1 {
+    text-transform: uppercase;
 }
 
-ul {
-    list-style: none;
+h2 {
+    font-size: 20px;
+}
+
+.ingredients h2 {
     text-align: center;
+    color: #316477;
+    text-transform: uppercase;
+}
+
+.ingredients ul {
+    text-align: center;
+    color: #316477;
+    list-style-type: none;
+}
+
+.steps ol {
+    text-align: left;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.link {
+    text-decoration: none;
 }

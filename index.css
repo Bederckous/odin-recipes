@@ -14,12 +14,6 @@ h1 {
     text-transform: capitalize;
 }
 
-.ingredients h2 {
-    text-align: center;
-    color: #316477;
-    text-transform: capitalize;
-}
-
 p {
     text-align: center;
 }
@@ -27,16 +21,4 @@ p {
 ul {
     list-style: none;
     text-align: center;
-}
-
-ol {
-    list-style: none;
-    text-align: left;
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 }
