@@ -10,11 +10,12 @@ body {
 
 .recipe-content {
     text-align: center;
-    color: #316477;
+    color: black;
 }
 
 .recipe-content h1 {
     text-transform: uppercase;
+    color: #316477;
 }
 
 h2 {
@@ -29,12 +30,13 @@ h2 {
 
 .ingredients ul {
     text-align: center;
-    color: #316477;
+    color: black;
     list-style-type: none;
 }
 
 .steps ol {
     text-align: left;
+    color: black;
 }
 
 img {
@@ -46,4 +48,5 @@ img {
 
 .link {
     text-decoration: none;
+    color: #316477;
 }
