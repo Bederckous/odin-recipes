@@ -1,0 +1,52 @@
+* {
+    line-height: 1.5;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px inset #316477;
+    background-color: #D7e3e8;
+}
+
+.recipe-content {
+    text-align: center;
+    color: black;
+}
+
+.recipe-content h1 {
+    text-transform: uppercase;
+    color: #316477;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.ingredients h2 {
+    text-align: center;
+    color: #316477;
+    text-transform: uppercase;
+}
+
+.ingredients ul {
+    text-align: center;
+    color: black;
+    list-style-type: none;
+}
+
+.steps ol {
+    text-align: left;
+    color: black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.link {
+    text-decoration: none;
+    color: #316477;
+}
